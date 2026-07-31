@@ -17,7 +17,7 @@ The VM restarts and I verify that Active Directory is installed.
 
 ## Creating Organizational Unit and Users and assigning them to a group
 
-Next I create an Organizational Unit called IT_Department within active directory, and create three users within it.
+Next I create an Organizational Unit called IT_Department within active directory, and three users within it.
 
 ![AD OU](screenshots/ADOU.png)
 
