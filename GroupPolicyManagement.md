@@ -4,7 +4,7 @@ With the IT_Department OU created, I set about implementing Group Policy Managem
 
 ## Creating and setting IT department policy
 
-First I find my IT_Department OU in Group Policy.
+First, before creating the GPO, I find my IT_Department OU in Group Policy.
 
 ![GPM Start](screenshots/GPMStart.png)
 
