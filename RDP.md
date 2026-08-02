@@ -18,4 +18,4 @@ I successfully connect with RDP.
 
 Lastly, as always, I take a snapshot through Virtualbox
 
-![Snapshot](screenshots/Snapshot6/png)
+![Snapshot](screenshots/Snapshot6.png)
